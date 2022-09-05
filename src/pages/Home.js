@@ -15,7 +15,14 @@ export default function Home(){
        <View>
         <Text> Meus Filmes Fav</Text>
         <text> Ola Romario, Boa noite!</text>
-       </View>     
+
+        <TouchableOpacity>
+            <Text>Adicionar</Text>
+        </TouchableOpacity>
+        
+       </View>  
+       
+       
     );
 }
 
